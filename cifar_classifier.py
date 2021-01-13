@@ -3,8 +3,6 @@ import argparse
 import time
 import cv2
 import os
-from imutils.video import VideoStream
-from imutils.video import FPS
 import imutils
 import sys
 
